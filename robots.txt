@@ -4,4 +4,4 @@ Disallow: /B/
 Disallow: /C/
 Disallow: /1.jpg
 
-Sitemap: http://ABC.com/sitemap.xml
+Sitemap: https://hiphopmon.github.io/sitemap.xml
